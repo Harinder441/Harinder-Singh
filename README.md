@@ -5,7 +5,7 @@
 - 🔭 I’m currently a FullStack Web Developer.(React/Laravel)
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on projects related to full stack
-- 💬 Ask me about Node js, React js, Redux, Mongo db
+- 💬 Ask me about React js, Laravel, MySql 
 - 📫 How to reach me: **harindersingh2107@gmail.com**
 
 
