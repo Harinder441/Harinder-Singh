@@ -3,9 +3,9 @@
 ### <h3 align="center">A passionate full stack web developer from India</h3>
 
 - 🔭 I’m currently a FullStack Web Developer.(React/Laravel)
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on projects related to full stack
-- 💬 Ask me about React js, Laravel, MySql 
+- 💬 Ask me about MERN Stack, PHP Laravel, Python Flask
 - 📫 How to reach me: **harindersingh2107@gmail.com**
 
 
